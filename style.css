@@ -215,7 +215,7 @@ section {
     display: flex;
     align-items: center;
     background: url(images/home-img.jpeg) no-repeat;
-    background-size: 1000vh;
+    background-size: cover;
     background-position: center;
 }
 
